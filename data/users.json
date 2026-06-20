@@ -1,0 +1,30 @@
+[
+  {
+    "username": "alex.chen",
+    "name": "Alex Chen",
+    "major": "M.S. Computer Science",
+    "year": "Second Year",
+    "email": "alex.chen@cstu.edu"
+  },
+  {
+    "username": "jordan.lee",
+    "name": "Jordan Lee",
+    "major": "M.S. Data Science",
+    "year": "First Year",
+    "email": "jordan.lee@cstu.edu"
+  },
+  {
+    "username": "sam.rivera",
+    "name": "Sam Rivera",
+    "major": "M.S. Physics",
+    "year": "Second Year",
+    "email": "sam.rivera@cstu.edu"
+  },
+  {
+    "username": "demo",
+    "name": "Demo Student",
+    "major": "Graduate Student",
+    "year": "First Year",
+    "email": "demo@cstu.edu"
+  }
+]

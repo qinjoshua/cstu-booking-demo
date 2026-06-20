@@ -1,0 +1,18 @@
+# Runtime state (regenerated automatically)
+data/state.json
+data/state.json.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Verification screenshots / scratch
+_*.png
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
