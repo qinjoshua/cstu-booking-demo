@@ -1,8 +1,6 @@
 # 🎓 CSTU Class Booking
 
-A clean, self-contained class-scheduling web app for the fictional
-**California Science and Technology University (CSTU)** — a graduate
-(master's-only) university — built as a hands-on **GitHub Copilot demo workshop**.
+A clean, self-contained class-scheduling web app for the **California Science and Technology University (CSTU)** — built as a hands-on workshop for **Practical Prompt Engineering**.
 
 It is intentionally dependency-free so anyone can run it natively:
 
@@ -23,8 +21,7 @@ python server.py
 
 Then open **http://localhost:8000** in your browser.
 
-**Demo sign-in:** use *any* username with the password **`cstu2024`**, or try a sample
-account: `alex.chen`, `jordan.lee`, `sam.rivera`, or `demo` (all use `cstu2024`).
+**Demo sign-in:** use *any* username with the password **`cstu2024`**
 
 Press `Ctrl+C` in the terminal to stop the server.
 
@@ -71,10 +68,8 @@ prompt-eng-demo/
 │   └── js/
 │       ├── api.js         # fetch() wrapper for the JSON API
 │       └── app.js         # UI rendering and interactions
-├── tests/
-│   └── test_server.py     # unittest suite for the backend
-└── docs/
-    └── WORKSHOP.md         # Facilitator guide: planted bugs, feature ideas, script
+└── tests/
+    └── test_server.py     # unittest suite for the backend
 ```
 
 ---
